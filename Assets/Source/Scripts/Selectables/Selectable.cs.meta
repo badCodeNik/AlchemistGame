@@ -3,7 +3,11 @@ guid: b9bf71d6dcb0f5749bfe2924260b8a4b
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2
-  defaultReferences: []
+  defaultReferences:
+  - signal: {fileID: 11400000, guid: 23c68ecbebf301045ad3baf06575bfca, type: 2}
+  - gameConfiguration: {instanceID: 0}
+  - selectableCollider2D: {instanceID: 0}
+  - selectableRigidbody2D: {instanceID: 0}
   executionOrder: 0
   icon: {instanceID: 0}
   userData: 
